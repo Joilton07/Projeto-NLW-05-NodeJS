@@ -1,5 +1,5 @@
 # Projeto-NLW-05-NodeJS
 
-A decolagem foi um sucesso e agora é hora de avançar com velocidade máxima rumo ao nosso objetivo.
+Estamos em órbita, explorando um universo infinito, repleto de novos conhecimentos.
 
-Codigo do 2º Dia da NLW 05: embuscadoproximonivel
+Codigo do 3º Dia da NLW 05: 
