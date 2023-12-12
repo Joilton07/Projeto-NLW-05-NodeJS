@@ -1,6 +1,13 @@
 # Projeto-NLW-05-NodeJS
 
-## Aula 05 - Landing
-É hora de pousar em um novo planeta.
+Esse projeto tem como objetivo criar uma comunicação entre a empresa e os clientes.
 
-Codigo do 5º Dia da NLW 05: missaocumprida
+## Tecnologias
+
+socket.io, express, sqlite3, typeorm, uuid, ejs e reflect-metadata.
+
+
+
+
+
+
